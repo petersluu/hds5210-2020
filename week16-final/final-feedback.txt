@@ -1,0 +1,19 @@
+PART 1:
+Nice work
+
+PART 2:
+Great
+
+PART 3:
+Good work
+
+PART 4:
+Good.  Only mistake is that you hardcoded the 20-day value for t.  It should have been dynamic to handle other date ranges.  -1
+
+PART 5:
+Excellent
+
+PART 6:
+Nice observations.
+
+
